@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Weibull from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-ctor@deno/mod.js';
+import Weibull from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-ctor@v0.2.1-deno/mod.js';
 ```
 
 #### Weibull( \[k, lambda] )
@@ -292,7 +292,7 @@ y = weibull.quantile( 1.9 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import Weibull from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-ctor@deno/mod.js';
+import Weibull from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-ctor@v0.2.1-deno/mod.js';
 
 var weibull = new Weibull( 2.0, 4.0 );
 
