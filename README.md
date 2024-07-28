@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Weibull from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-ctor@esm/index.mjs';
+import Weibull from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-ctor@v0.2.2-esm/index.mjs';
 ```
 
 #### Weibull( \[k, lambda] )
@@ -297,7 +297,7 @@ y = weibull.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Weibull from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-ctor@esm/index.mjs';
+import Weibull from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-ctor@v0.2.2-esm/index.mjs';
 
 var weibull = new Weibull( 2.0, 4.0 );
 
