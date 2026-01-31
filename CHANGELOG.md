@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-30)
+## Unreleased (2026-01-31)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`186140c`](https://github.com/stdlib-js/stdlib/commit/186140c35eeb2285177275b7c4027f95406d444a) - **bench:** update random value generation [(#9991)](https://github.com/stdlib-js/stdlib/pull/9991) _(by Harsh Yadav)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav Jadhav)_
 
@@ -37,9 +38,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Gaurav Jadhav
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
