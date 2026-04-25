@@ -103,7 +103,8 @@
     "quantile",
     "properties",
     "props",
-    "univariate"
+    "univariate",
+    "continuous"
   ],
   "funding": {
     "type": "opencollective",
