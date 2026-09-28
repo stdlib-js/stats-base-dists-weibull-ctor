@@ -170,6 +170,17 @@ var mu = weibull.mean;
 // returns ~10.877
 ```
 
+#### Weibull.prototype.median
+
+Returns the [median][median].
+
+```javascript
+var weibull = new Weibull( 4.0, 12.0 );
+
+var median = weibull.median;
+// returns ~10.949
+```
+
 #### Weibull.prototype.mode
 
 Returns the [mode][mode].
@@ -434,6 +445,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [expected-value]: https://en.wikipedia.org/wiki/Expected_value
 
 [kurtosis]: https://en.wikipedia.org/wiki/Kurtosis
+
+[median]: https://en.wikipedia.org/wiki/Median
 
 [mode]: https://en.wikipedia.org/wiki/Mode_%28statistics%29
 

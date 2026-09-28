@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-09-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5c4b613`](https://github.com/stdlib-js/stdlib/commit/5c4b61336167ea0936140e859f85df7f52278e63) - **docs:** update descriptions and clean-up [(#15625)](https://github.com/stdlib-js/stdlib/pull/15625) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f24fece`](https://github.com/stdlib-js/stdlib/commit/f24fece54fb56b188cf8052c45d9b7c3de79c9fb) - **chore:** add missing keyword [(#11766)](https://github.com/stdlib-js/stdlib/pull/11766) _(by Philipp Burckhardt)_
 -   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
